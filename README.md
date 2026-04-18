@@ -2,7 +2,7 @@
 
 A production-grade machine learning application that predicts telecom customer churn, identifies at-risk segments, and generates actionable business retention recommendations.
 
-**[🚀 Live Demo →](https://your-app.streamlit.app)**
+**[🚀 Live Demo →](https://churniq-project-nyld5our2xxebbw4akbn7o.streamlit.app/)**
 
 ---
 
